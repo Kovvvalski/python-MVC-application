@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<students>
+    <student first_name="Max" second_name="Müller" third_name="Hans">
+    <course>2</course>
+    <group>c1</group>
+    <tasks>20</tasks>
+    <completed_tasks>18</completed_tasks>
+    <language>Python</language>
+</student>
+<student first_name="Sophie" second_name="Lee" third_name="Jung">
+    <course>3</course>
+    <group>a2</group>
+    <tasks>19</tasks>
+    <completed_tasks>15</completed_tasks>
+    <language>Java</language>
+</student>
+<student first_name="Alex" second_name="Wang" third_name="Li">
+    <course>1</course>
+    <group>b3</group>
+    <tasks>22</tasks>
+    <completed_tasks>19</completed_tasks>
+    <language>Python</language>
+</student>
+<student first_name="Emma" second_name="Chen" third_name="Liu">
+    <course>4</course>
+    <group>d1</group>
+    <tasks>16</tasks>
+    <completed_tasks>12</completed_tasks>
+    <language>Java</language>
+</student>
+<student first_name="Liam" second_name="Kim" third_name="Park">
+    <course>2</course>
+    <group>c1</group>
+    <tasks>21</tasks>
+    <completed_tasks>17</completed_tasks>
+    <language>cxx</language>
+</student>
+<student first_name="Olivia" second_name="Nguyen" third_name="Tran">
+    <course>3</course>
+    <group>a2</group>
+    <tasks>18</tasks>
+    <completed_tasks>11</completed_tasks>
+    <language>Python</language>
+</student>
+<student first_name="Noah" second_name="Gupta" third_name="Sharma">
+    <course>1</course>
+    <group>b3</group>
+    <tasks>24</tasks>
+    <completed_tasks>22</completed_tasks>
+    <language>cxx</language>
+</student>
+<student first_name="Ava" second_name="Kumar" third_name="Singh">
+    <course>4</course>
+    <group>d1</group>
+    <tasks>17</tasks>
+    <completed_tasks>14</completed_tasks>
+    <language>Java</language>
+</student>
+<student first_name="Isabella" second_name="Ali" third_name="Khan">
+    <course>2</course>
+    <group>c1</group>
+    <tasks>19</tasks>
+    <completed_tasks>16</completed_tasks>
+    <language>cxx</language>
+</student>
+<student first_name="Mia" second_name="Patel" third_name="Shah">
+    <course>3</course>
+    <group>a2</group>
+    <tasks>20</tasks>
+    <completed_tasks>17</completed_tasks>
+    <language>Python</language>
+</student>
+</students>

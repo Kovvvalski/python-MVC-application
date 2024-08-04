@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<students>
+  <student first_name="Daniil" second_name="Schell" third_name="Wald">
+    <course>2</course>
+    <group>c1</group>
+    <tasks>21</tasks>
+    <completed_tasks>2</completed_tasks>
+    <language>cxx</language>
+  </student>
+  <student first_name="Alice" second_name="Smith" third_name="Jane">
+    <course>3</course>
+    <group>a2</group>
+    <tasks>18</tasks>
+    <completed_tasks>12</completed_tasks>
+    <language>Python</language>
+  </student>
+  <student first_name="John" second_name="Doe" third_name="Michael">
+    <course>1</course>
+    <group>b3</group>
+    <tasks>25</tasks>
+    <completed_tasks>20</completed_tasks>
+    <language>cxx</language>
+  </student>
+</students>
